@@ -1,38 +1,25 @@
- 1. Блочные элементы
- + [Параграфы и разрывы строк](#Parag);
- + [Заголовки](#Headers);
- + [Цитаты](#Blockquotes);
- + [Списки](#Lists)
- + [Блоки кода](#CodeBlocks);
- + [Горизонтальные (разделительные) линии](#Lines).
- ОПИСАНИЕ СИНТАКСИСА
-=========================
-   
 Putintseva Maria
 --------------------------
 
-Заголовок первого уровня
-========================
-
 Contacts
 --------------------------
-	*Mail - <fairyname1717@gmail.com>
-    *Telegaram - @putintceva
+*[Mail - <fairyname1717@gmail.com>]
+*[Telegaram - @putintceva]
 
 Summary
 --------------------------
-	The goal is to become a frontend developer and engage in interesting projects. In the future, I am interested in developing a fullstack developer. I quickly learn new technologies
+The goal is to become a frontend developer and engage in interesting projects. In the future, I am interested in developing a fullstack developer. I quickly learn new technologies
 
 Skills
 --------------------------
-*HTML;
-*CSS/SASS;
-*JS;
-*Git;
-*Bootstrap;
-*React Basic;
-*Node.js Basic;
-*Photoshop/Figma.
++[HTML];
++[CSS/SASS];
++[JavaScript];
++[Git];
++[Bootstrap];
++[React-Basic];
++[Node.js-Basic];
++[Photoshop/Figma].
 
 Code examples
 --------------------------
@@ -52,3 +39,14 @@ Code examples
      }
     }
     ```
+Experience
+--------------------------
+Landing page, Simple site with catalog and main page, simple game on javascript, E-commerse and to-do app on react
+
+Education
+--------------------------
+I am self-styding in programming. Courses - htmlacademy, codecamp, learnjs. Books- Grock Algorithms
+
+Languages
+--------------------------
+English Level - Intermediate
