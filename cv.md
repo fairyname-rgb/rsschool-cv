@@ -3,8 +3,8 @@ Putintseva Maria
 
 Contacts
 --------------------------
-*[Mail - <fairyname1717@gmail.com>]
-*[Telegaram - @putintceva]
+* Mail - <fairyname1717@gmail.com>
+* Telegaram - @putintceva
 
 Summary
 --------------------------
@@ -12,14 +12,14 @@ The goal is to become a frontend developer and engage in interesting projects. I
 
 Skills
 --------------------------
-+HTML;
-+CSS/SASS;
-+JavaScript;
-+Git;
-+Bootstrap;
-+React-Basic;
-+Node.js-Basic;
-+Photoshop/Figma.
++ HTML;
++ CSS/SASS;
++ JavaScript;
++ Git;
++ Bootstrap;
++ React Basics;
++ Node.js Basics;
++ Photoshop/Figma.
 
 Code examples
 --------------------------
@@ -45,7 +45,7 @@ Landing page, Simple site with catalog and main page, simple game on javascript,
 
 Education
 --------------------------
-I am self-styding in programming. Courses - htmlacademy, codecamp, learnjs. Books- Grock Algorithms
+I am self-styding in programming. Courses - htmlacademy, codecamp, learnjs. 
 
 Languages
 --------------------------
