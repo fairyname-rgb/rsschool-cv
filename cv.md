@@ -12,14 +12,14 @@ The goal is to become a frontend developer and engage in interesting projects. I
 
 Skills
 --------------------------
-+[HTML];
-+[CSS/SASS];
-+[JavaScript];
-+[Git];
-+[Bootstrap];
-+[React-Basic];
-+[Node.js-Basic];
-+[Photoshop/Figma].
++HTML;
++CSS/SASS;
++JavaScript;
++Git;
++Bootstrap;
++React-Basic;
++Node.js-Basic;
++Photoshop/Figma.
 
 Code examples
 --------------------------
