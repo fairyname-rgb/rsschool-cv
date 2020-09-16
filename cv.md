@@ -1,7 +1,7 @@
 	Putintseva Maria
-    ================
+    ========================
     Contacts
-    --------
+    -------------------------
 	*Mail - <fairyname1717@gmail.com>
     *Telegaram - @putintceva
     Summary
@@ -35,4 +35,3 @@
      }
     }
     ```
-    
